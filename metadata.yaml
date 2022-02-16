@@ -1,11 +1,16 @@
 _repo: Against-the-Tide_67269
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67269-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Wycliffe, John
     gutenberg_agent_id: '54186'
     url: http://www.gutenberg.org/2009/agents/54186
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67269#Against-the-Tide
 gutenberg_issued: '2022-01-29'
 identifiers:
   gutenberg: '67269'
